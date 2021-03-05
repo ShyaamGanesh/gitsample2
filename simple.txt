@@ -1,2 +1,3 @@
 Hi ..
 Hi from branch 1
+Hi from branch 2
